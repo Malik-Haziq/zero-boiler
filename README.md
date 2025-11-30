@@ -1,6 +1,6 @@
+![Screenshot from 2025-11-30 06-50-13](https://github.com/user-attachments/assets/85d0f6fc-3038-409c-9a30-2edb57411aec)
 
-# zero-boiler![Screenshot from 2025-11-30 06-50-13](https://github.com/user-attachments/assets/85d0f6fc-3038-409c-9a30-2edb57411aec)
-
+# zero-boiler
 
 Create clean project templates with zero boilerplate code. Interactive CLI for React, Next.js & more - just the essentials, ready to code.
 

@@ -1,6 +1,8 @@
-# zero-boiler
 
-🚀 Create clean project templates with zero boilerplate code. Interactive CLI for React, Next.js & more - just the essentials, ready to code.
+# zero-boiler![Screenshot from 2025-11-30 06-50-13](https://github.com/user-attachments/assets/85d0f6fc-3038-409c-9a30-2edb57411aec)
+
+
+Create clean project templates with zero boilerplate code. Interactive CLI for React, Next.js & more - just the essentials, ready to code.
 
 ## Why zero-boiler?
 
@@ -8,13 +10,13 @@ Tired of deleting demo code every time you start a new project? **zero-boiler** 
 
 ## Features
 
-✨ **Zero Boilerplate** - No "Hello World" examples or demo components  
-🎯 **Interactive Setup** - Smart prompts for your preferences  
-⚡ **Lightning Fast** - Get coding in under 30 seconds  
-🛠️ **Modern Tooling** - Vite, TypeScript, Tailwind - all pre-configured  
-📱 **Framework Support** - React, Next.js (Vue, Svelte coming soon)  
-🎨 **Styling Options** - Tailwind CSS or plain CSS  
-💎 **Production Ready** - Best practices baked in
+**Zero Boilerplate** - No "Hello World" examples or demo components  
+**Interactive Setup** - Smart prompts for your preferences  
+**Lightning Fast** - Get coding in under 30 seconds  
+**Modern Tooling** - Vite, TypeScript, Tailwind - all pre-configured  
+**Framework Support** - React, Next.js (Vue, Svelte coming soon)  
+**Styling Options** - Tailwind CSS or plain CSS  
+**Production Ready** - Best practices baked in
 
 ## Quick Start
 
@@ -66,19 +68,19 @@ npm run dev
 
 ### React Templates Include:
 
-- ⚡ **Vite** for blazing fast development
-- 🔷 **TypeScript** support (optional)
-- 🎨 **Tailwind CSS** pre-configured (optional)
-- 📦 **Clean project structure**
-- 🛠️ **Modern build tools**
+- **Vite** for blazing fast development
+- **TypeScript** support (optional)
+- **Tailwind CSS** pre-configured (optional)
+- **Clean project structure**
+- **Modern build tools**
 
 ### Next.js Templates Include:
 
-- 🚀 **Next.js 14** with App Router
-- 🔷 **TypeScript** support (optional)
-- 🎨 **Tailwind CSS** pre-configured (optional)
-- 📁 **Clean app directory structure**
-- ⚡ **ESLint** configuration
+- **Next.js 14** with App Router
+- **TypeScript** support (optional)
+- **Tailwind CSS** pre-configured (optional)
+- **Clean app directory structure**
+- **ESLint** configuration
 
 ## Template Structure
 
@@ -146,7 +148,7 @@ npm run lint     # Run ESLint
 
 ## Roadmap
 
-🔮 **Coming Soon:**
+**Coming Soon:**
 
 - Vue 3 templates
 - Svelte templates
@@ -175,9 +177,9 @@ We'd love your help! Here's how to contribute:
 
 ## Issues & Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Malik-Haziq/zero-boiler/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/Malik-Haziq/zero-boiler/discussions)
-- 📧 **Email**: malikhaziq153@gmail.com
+- **Bug Reports**: [GitHub Issues](https://github.com/Malik-Haziq/zero-boiler/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Malik-Haziq/zero-boiler/discussions)
+- **Email**: malikhaziq153@gmail.com
 
 ## License
 
